@@ -1,0 +1,8 @@
+body{
+    font-family: 'Comfortaa';
+    background: rgb(247,255,250);
+}
+#postBtn{
+    background-image: linear-gradient(to right, #ff105f, #ffad06);
+    color: white;
+}
